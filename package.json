@@ -1,0 +1,10 @@
+{
+	"name": "convert-kit-yml",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node format-enchants.js"
+	},
+	"dependencies": {
+		"js-yaml": "^4.1.0"
+	}
+}
